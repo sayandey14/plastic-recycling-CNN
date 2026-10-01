@@ -1,0 +1,4 @@
+artifacts/model.pt
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
